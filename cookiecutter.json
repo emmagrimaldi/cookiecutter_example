@@ -1,0 +1,12 @@
+{
+	"folder_title": "Cookiecutter Example",
+	"notebook_title": "Generate dataframe with random integer entries and calculate ",
+	"n_columns": 5,
+	"n_rows": 10,
+  "min_value_in_df": 0,
+  "max_value_in_df": 100,
+	"numpy_function_to_calculate": "mean",
+  "calculate_over_rows_or_columns": "columns",
+	"file_name": "example",
+  "file_format": "csv"
+}
